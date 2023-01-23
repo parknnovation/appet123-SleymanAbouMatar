@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082187888406",
+    "project_id": "appet-b8d6c",
+    "storage_bucket": "appet-b8d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082187888406:android:26848f74f4b15a16720237",
+        "android_client_info": {
+          "package_name": "com.example.appet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082187888406-vn753f17bdama0l1315enn9vtvtua4he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUatqkO2CeQElyL2oTSeFJFZmuOKursU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082187888406-vn753f17bdama0l1315enn9vtvtua4he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
